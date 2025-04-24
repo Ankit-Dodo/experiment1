@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Keep specific files
+!script.sh
+!src/main.py
+!config/settings.yaml
+X
